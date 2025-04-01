@@ -49,3 +49,7 @@ Pushear esa tag al repositorio con
 ```
 git push origin main --follow-tags
 ```
+
+### 6) Crear el release de la nueva tag y adjuntar binarios
+
+Una vez ubicada la nueva etiqueta en el repositorio de github, se debe crear un release con esa etiqueta y se debe adjuntar los binarios correpondientes
