@@ -2,6 +2,7 @@
 
 -   [v0.1.1: 2025-03-31T02:18:19Z](./releases/agenda-quirofano/v0.1.1.md)
 -   [v0.1.2: 2025-04-01T14:00:00Z](./releases/agenda-quirofano/v0.1.2.md)
+-   [v0.1.3: 2025-04-01T18:00:00Z](./releases/agenda-quirofano/v0.1.3.md)
 
 # Partograma
 
