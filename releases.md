@@ -8,6 +8,7 @@
 
 ## API
 
+-   [v1.1.0: 2025-04-08T14:31:16.406Z](./releases/agenda-quirofano-api/v1.1.0.md)
 # Partograma
 
 # Protocolo de Anestesia
