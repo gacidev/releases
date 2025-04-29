@@ -8,6 +8,7 @@
 
 ## API
 
+-   [v1.1.2: 2025-04-29T12:40:43.417Z](./releases/agenda-quirofano-api/v1.1.2.md)
 -   [v1.1.0: 2025-04-08T14:31:16.406Z](./releases/agenda-quirofano-api/v1.1.0.md)
 # Partograma
 
