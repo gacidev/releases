@@ -1,5 +1,6 @@
 # Agenda - Quirófano
 
+-   [v0.2.3: 2025-05-30T12:46:01.205Z](./releases/agenda-quirofano/v0.2.3.md)
 -   [v0.2.2: 2025-05-19T11:09:03.371Z](./releases/agenda-quirofano/v0.2.2.md)
 -   [v0.2.1: 2025-05-06T14:46:22.853Z](./releases/agenda-quirofano/v0.2.1.md)
 -   [v0.1.8: 2025-04-29T13:57:39.878Z](./releases/agenda-quirofano/v0.1.8.md)
