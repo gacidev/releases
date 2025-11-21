@@ -30,6 +30,7 @@
 
 ## API
 
+-   [v1.5.7: 2025-11-21T21:56:51.914Z](./releases/agenda-quirofano-api/v1.5.7.md)
 -   [v1.5.5: 2025-11-17T19:18:32.651Z](./releases/agenda-quirofano-api/v1.5.5.md)
 -   [v1.4.3: 2025-10-31T16:49:30.931Z](./releases/agenda-quirofano-api/v1.4.3.md)
 -   [v1.4.0: 2025-10-21T14:47:53.337Z](./releases/agenda-quirofano-api/v1.4.0.md)
