@@ -41,6 +41,7 @@
 
 ## API
 
+-   [v1.10.1: 2026-07-22T17:13:57.478Z](./releases/agenda-quirofano-api/v1.10.1.md)
 -   [v1.10.0: 2026-07-16T19:20:06.425Z](./releases/agenda-quirofano-api/v1.10.0.md)
 -   [v1.9.3: 2026-07-06T15:15:08.305Z](./releases/agenda-quirofano-api/v1.9.3.md)
 -   [v1.9.2: 2026-06-12T16:34:31.645Z](./releases/agenda-quirofano-api/v1.9.2.md)
